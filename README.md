@@ -2,7 +2,9 @@
 
 🔭 I’m currently working on 
 - deploying a Next.js app with docker and aws to help pest control biologists identify insects
-  [NameThat Pest](https://github.com/cntencra/namethatpest)
+  [GitHub - Name That Pest](https://github.com/cntencra/namethatpest)
+  Currently missing https security protocol only accessible at http
+  [Name That Pest.co.uk](http://namethatpest.co.uk)
   
 
 🌱 I’m currently learning
